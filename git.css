@@ -5,12 +5,18 @@ body
     font-family: sans-serif;
 }
 
+h1
+{
+    color:darkred;
+}
+
 .table, td, th
 {
 border: 2px solid gray;
 }
 
-h1
+.tr1
 {
-    color:pink;
+    color: green;
+    background-color: yellow;
 }
