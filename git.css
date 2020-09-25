@@ -1,0 +1,16 @@
+body
+{
+    color: blue;
+    background-color: aliceblue;
+    font-family: sans-serif;
+}
+
+.table, td, th
+{
+border: 2px solid gray;
+}
+
+h1
+{
+    color:pink;
+}
