@@ -1,16 +1,24 @@
 body
 {
-    color: blue;
-    background-color: aliceblue;
+    color: black;
+    background-color: white ;
     font-family: sans-serif;
-}
-
-.table, td, th
-{
-border: 2px solid gray;
 }
 
 h1
 {
-    color:pink;
+    color:black;
+}
+
+.table, td, th
+{
+border: 2px solid lightgrey;
+}
+
+.tr1
+{
+    color: black;
+    background-color: antiquewhite;
+    font-family: fantasy;
+    align-content: center;
 }
